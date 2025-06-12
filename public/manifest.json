@@ -1,0 +1,8 @@
+{
+  "name": "Clean Frontend",
+  "short_name": "Frontend",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "A clean frontend setup for your fitness app."
+}
