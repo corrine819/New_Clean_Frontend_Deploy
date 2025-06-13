@@ -69,6 +69,14 @@ const Dashboard = () => {
         <h2>Settings</h2>
         <Link to="/settings">Go to Settings</Link>
       </div>
+      <div
+        style={quadrantStyle}
+        onMouseEnter={handleMouseEnter}
+        onMouseLeave={handleMouseLeave}
+      >
+        <h2>Profile</h2>
+        <Link to="/profile">Go to Profile</Link>
+      </div>
     </div>
   );
 };
